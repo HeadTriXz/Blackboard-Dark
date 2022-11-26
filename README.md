@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://help.blackboard.com/sites/default/files/images/2022-07/Blackboard-transitional-logo-white_small.png"/>
+  <img src="https://addons.mozilla.org/user-media/addon_icons/2756/2756157-128.png"/>
 </p>
 
 <h3 align="center">Dark Mode for Blackboard</h3>
